@@ -24,7 +24,7 @@ To have your own Discord token, you have 2 options :
 - Press CTRL + SHIFT + I key to open the -console
 - Go to the repertory "Network"
 - Right Click on the "Record Network"
-- And press 'F5'
+- And press 'ALT + F5'
 - Go to the folder '@me'
 - And your token is in the repertory "Authorization"
 
