@@ -8,7 +8,7 @@ const client = new Client({});
 
 const token = "tonToken"
 
-const messageDM = "Salut je fais mon shop je vends d'un peux tous viens y jeter un oeil je vais aussi faire des giveaways des events et tous donc viens voir si ça t'intéresse https://discord.gg/xZB7vPSN"
+const messageDM = "tonMessage"
 
 client.on('ready', async (client) => {
 
