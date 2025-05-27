@@ -1,11 +1,11 @@
-
+EN_english
 ## Installation : 
 
 To take less off your time, i will explain you step by step. 
 
 # Important 
 
-You need to have NODE.JS installed into your PC or Mac to have fun with my script.
+You need to have [NODE.JS](https://nodejs.org/en/download) installed into your PC or Mac to have fun with my script.
 
 First of all, 
 
@@ -45,3 +45,23 @@ Yay, You made it, now it's time to boot that up!
 To start it, you need to open your terminal and type in "node index.js"
 
 ### I wish you some love for my DmAll tool and wish you to have fun with it
+
+
+FR_français
+
+# INSTALLATION DU SCRIPT
+
+Pour profiter plainement du script, je vais vous expliquer comment l'installer correctement étape par étape !
+
+## IMPORTANT
+
+Pour que mon script fonctionne, il faut que vous ayez [NodeJS](https://nodejs.org/en/download) d'installer sur votre PC.
+
+# INSTALLATION DES DÉPENDENCES 
+
+Premièrement, 
+
+Pour paraméter votre bot, ouvrez votre logiciel d'édition de texte (Je vous conseille vivement le logiciel [VS Code](https://code.visualstudio.com/download) 
+
+Editez les lignes 5 et 6
+Remplacer avec vos informations
