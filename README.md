@@ -19,7 +19,7 @@ line 6 : Replace the 'tonMessage' with the message you will send .
 
 To have your own Discord token, you have 2 options : 
 
-#Option 1 
+### Option 1 
 
 - Press CTRL + SHIFT + I key to open the -console
 - Go to the repertory "Network"
@@ -28,7 +28,7 @@ To have your own Discord token, you have 2 options :
 - Go to the folder '@me'
 - And your token is in the repertory "Authorization"
 
-#Option 2
+### Option 2
 This is hard has fu*k so, i didn't recommend you to know that.
 
 # Step 1 : The requested packages
