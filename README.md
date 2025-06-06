@@ -47,6 +47,11 @@ To start it, you need to open your terminal and type in "node index.js"
 ### I wish you some love for my DmAll tool and wish you to have fun with it
 
 
+
+
+
+
+
 FR_français
 
 # INSTALLATION DU SCRIPT
@@ -59,9 +64,34 @@ Pour que mon script fonctionne, il faut que vous ayez [NodeJS](https://nodejs.or
 
 # INSTALLATION DES DÉPENDENCES 
 
-Premièrement, 
 
-Pour paraméter votre bot, ouvrez votre logiciel d'édition de texte (Je vous conseille vivement le logiciel [VS Code](https://code.visualstudio.com/download) 
+Ouvrez votre interprète de commande (CMD) et recopiez cette commande ```nmp install axios discord.js-selfbot-v13```
 
-Editez les lignes 5 et 6
-Remplacer avec vos informations
+# CONFIGURATION
+
+Pour paraméter votre bot, ouvrez votre logiciel d'édition de texte (Je vous conseille vivement le logiciel [VS Code](https://code.visualstudio.com/download) )
+
+Éditez les lignes 5 et 6
+
+## RÉCUPERATION DE VOTRE TOKEN DISCORD (Soyez sûr que vous soyez le titulaire du compte visé)
+
+Il y as deux méthodes pour recupérer ce précieux mélange de chiffres et de lettres, je vous offre la plus simple :
+*Attention, cette méthode fonctionne uniquement sur PC !*
+
+Vous utilisez l'application Discord ou la version WEB:
+
+1. Appuyez simultanément sur CTRL+MAJ+I 
+Vous avez accès à la console de débuggage
+2. Allez dans la catégorie 'NETWORK'
+3. Rafraichir votre Application en appuyant sur CTRL+F5
+4. Attendez jusqu'a voir un fichier nommé '@me' et cliquez dessus
+5. Descendez jusqu'a voir la colonne 'Authorization' et copiez le resultat
+
+TADAAAA, Votre token, vous l'avez. 
+
+# DEMMMARAGE DU SCRIPT
+Vous avez tout, plus qu'as le lancer avec cette commande:
+
+```node index.js```
+
+Profitez bien de mon script !
